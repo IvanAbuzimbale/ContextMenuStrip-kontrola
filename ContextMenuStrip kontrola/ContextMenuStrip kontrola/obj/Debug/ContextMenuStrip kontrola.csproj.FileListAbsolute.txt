@@ -1,0 +1,10 @@
+C:\Users\ivanm\source\repos\ContextMenuStrip kontrola\ContextMenuStrip kontrola\bin\Debug\ContextMenuStrip kontrola.exe.config
+C:\Users\ivanm\source\repos\ContextMenuStrip kontrola\ContextMenuStrip kontrola\bin\Debug\ContextMenuStrip kontrola.exe
+C:\Users\ivanm\source\repos\ContextMenuStrip kontrola\ContextMenuStrip kontrola\bin\Debug\ContextMenuStrip kontrola.pdb
+C:\Users\ivanm\source\repos\ContextMenuStrip kontrola\ContextMenuStrip kontrola\obj\Debug\ContextMenuStrip_kontrola.Form1.resources
+C:\Users\ivanm\source\repos\ContextMenuStrip kontrola\ContextMenuStrip kontrola\obj\Debug\ContextMenuStrip_kontrola.Properties.Resources.resources
+C:\Users\ivanm\source\repos\ContextMenuStrip kontrola\ContextMenuStrip kontrola\obj\Debug\ContextMenuStrip kontrola.csproj.GenerateResource.cache
+C:\Users\ivanm\source\repos\ContextMenuStrip kontrola\ContextMenuStrip kontrola\obj\Debug\ContextMenuStrip kontrola.csproj.CoreCompileInputs.cache
+C:\Users\ivanm\source\repos\ContextMenuStrip kontrola\ContextMenuStrip kontrola\obj\Debug\ContextMenuStrip kontrola.exe
+C:\Users\ivanm\source\repos\ContextMenuStrip kontrola\ContextMenuStrip kontrola\obj\Debug\ContextMenuStrip kontrola.pdb
+C:\Users\ivanm\source\repos\ContextMenuStrip kontrola\ContextMenuStrip kontrola\obj\Debug\ContextMenuStrip kontrola.csprojAssemblyReference.cache
